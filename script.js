@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "Waht is the total area of Bangladesh?",
+    question: "What is the total area of Bangladesh?",
     answer: "1,47,570 Sq.km",
     options: [
       "1,48,573 Sq.km",
